@@ -6,6 +6,7 @@ class Mammals {
     string name;
     string location;
     // Set function
+  public:
     string getName(){
       return this->name;
     }
